@@ -14,7 +14,7 @@ Create a .env file and add your MongoDB connection string:
 
 '''
 PORT=4000
-CONNECTION_STRING=<add_your_connection_string_here>
+CONNECTION_STRING=add_your_connection_string_here
 '''
 
 and then run locally with:
