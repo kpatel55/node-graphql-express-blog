@@ -1,6 +1,6 @@
 # GraqhQL Blog Server
 
-A simple GraphQL server for a blog built with node and express.
+A simple GraphQL server for a blog built with node and express. Link to Medium post: https://medium.com/@kidd_vicious/building-a-graphql-blog-server-with-nodejs-express-a946f77b78f
 
 # Usage
 
